@@ -1,0 +1,21 @@
+:root {
+  --color-soft-blue: hsl(215, 51%, 70%);
+
+  --font-size-p: 18px;
+
+  --font-family-outfit: "Outfit", sans-serif;
+}
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+.container {
+}
+
+@media (min-width: 1440px) {
+}
